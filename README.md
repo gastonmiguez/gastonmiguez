@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 
 
+bozkurt.hazarr","furkan.dogen","cakircan_cakir","neostck
 <!--
-**gastonmiguez/gastonmiguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gastonmiguez/gastonmiguez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
